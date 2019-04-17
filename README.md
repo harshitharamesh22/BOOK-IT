@@ -1,4 +1,4 @@
-## COEN 268 GROUP 4
+BOOK IT
 
 ## INTRODUCTION
 The app provides students and other stores an interface to rent out their books to classmates and customers for a certain amount of time, albeit with a small cost (for information exchange for monitory transactions).Includes features like
